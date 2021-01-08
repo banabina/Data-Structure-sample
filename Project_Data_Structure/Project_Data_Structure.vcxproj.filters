@@ -18,9 +18,15 @@
     <ClInclude Include="MyStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="quick_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyStackTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSortTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
